@@ -1,0 +1,39 @@
+
+#Atividade{
+    margin: 0 auto;
+    width: 650px;
+    font-family: sans-serif;
+    text-align: center;
+}
+#TITULO{
+    margin: 0 auto;
+    width: 1200px;
+    text-align: center;
+}
+
+#topotxt{
+    background-image: url(images.png);
+    background-repeat: no-repeat;
+}
+
+#sec1{
+    width: 1200px;
+    margin: 0 auto;
+    text-align: left ;
+}
+#sec2{
+    width: 1200px;
+    margin: 0 auto;
+    text-align: center;
+}
+#sec3{
+    width: 1200px;
+    margin: 0 auto;
+    text-align: right;
+}
+#sec4{
+    width: 15px;
+    text-align: center;
+    margin: 0 auto;
+    display: inline;
+}
