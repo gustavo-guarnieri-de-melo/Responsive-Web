@@ -1,4 +1,7 @@
 
+section{
+    display: flex;
+}
 #Atividade{
     margin: 0 auto;
     width: 650px;
@@ -19,21 +22,17 @@
 #sec1{
     width: 1200px;
     margin: 0 auto;
-    text-align: left ;
 }
 #sec2{
     width: 1200px;
     margin: 0 auto;
-    text-align: center;
 }
 #sec3{
     width: 1200px;
     margin: 0 auto;
-    text-align: right;
 }
 #sec4{
     width: 15px;
     text-align: center;
     margin: 0 auto;
-    display: inline;
 }
