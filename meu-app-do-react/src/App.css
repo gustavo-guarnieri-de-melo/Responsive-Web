@@ -1,0 +1,58 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+header {
+  width: 100%;
+  height: 10vh;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgb(19, 43, 151);
+}
+
+h1 {
+  margin-left: 20px;
+}
+
+ul {
+  display: flex;
+  margin-right: 20px;
+}
+
+li {
+  list-style: none;
+  margin-left: 20px;
+} 
+
+li:hover {
+  color: aliceblue;
+  cursor: pointer;
+}
+
+main {
+  width: 100%;
+  height: 100vh;
+  background-image: url('img/LIVRARIA.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.Biblioteca {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+  justify-items: center;
+}
+
+img {
+  margin-top: 20px;
+  width: 200px;
+  height: 300px;
+}
+footer {
+  background-color: rgb(19, 43, 151);
+  padding: 10px;
+  text-align: center;
+}
