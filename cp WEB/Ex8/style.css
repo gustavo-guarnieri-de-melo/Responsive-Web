@@ -1,0 +1,26 @@
+body {
+  font-family: Arial, sans-serif;
+}
+h1 {
+  color: #2f4f4f;
+}
+form {
+  margin-bottom: 20px;
+}
+label {
+  font-weight: bold;
+}
+input {
+  margin-left: 10px;
+  padding: 5px;
+}
+button {
+  margin-left: 10px;
+  padding: 5px;
+}
+p {
+  margin-bottom: 10px;
+}
+#resultado {
+  font-weight: bold;
+}
